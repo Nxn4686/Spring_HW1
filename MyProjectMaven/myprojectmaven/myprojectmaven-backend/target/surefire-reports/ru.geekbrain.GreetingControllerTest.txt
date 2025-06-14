@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ru.geekbrain.GreetingControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.259 s - in ru.geekbrain.GreetingControllerTest
